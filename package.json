@@ -1,5 +1,5 @@
 {
-  "name": "react-leaflet-google-layer",
+  "name": "canex-react-leaflet-google-layer",
   "version": "2.0.7",
   "description": "React leaflet wrapper of leaflet.gridlayer.googlemutant",
   "main": "lib/index.js",
@@ -25,7 +25,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/aviklai/react-leaflet-google-layer.git"
+    "url": "https://github.com/Can-ExploreInc/react-leaflet-google-layer"
   },
   "keywords": [
     "React",
@@ -39,9 +39,9 @@
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/aviklai/react-leaflet-google-layer/issues"
+    "url": "https://github.com/Can-ExploreInc/react-leaflet-google-layer/issues"
   },
-  "homepage": "https://github.com/aviklai/react-leaflet-google-layer#readme",
+  "homepage": "https://github.com/Can-ExploreInc/react-leaflet-google-layer#readme",
   "peerDependencies": {
     "leaflet": ">=1.5.0",
     "react": ">=16.8.0",
@@ -75,6 +75,6 @@
     "@googlemaps/js-api-loader": "^1.8.0",
     "@types/leaflet": "^1.5.0",
     "@types/leaflet.gridlayer.googlemutant": "^0.4.6",
-    "leaflet.gridlayer.googlemutant": "^0.13.5"
+    "canex.leaflet.gridlayer.googlemutant": "^0.13.5"
   }
 }
