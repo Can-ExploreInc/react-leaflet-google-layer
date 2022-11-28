@@ -1,6 +1,6 @@
 import * as React from 'react';
 import * as L from 'leaflet';
-import "canex.leaflet.gridlayer.googlemutant/dist/Leaflet.GoogleMutant"
+import 'canex.leaflet.gridlayer.googlemutant/dist/Leaflet.GoogleMutant';
 import { createLayerComponent, updateGridLayer, LeafletContextInterface, LayerProps } from '@react-leaflet/core';
 import { Loader, LoaderOptions } from '@googlemaps/js-api-loader';
 

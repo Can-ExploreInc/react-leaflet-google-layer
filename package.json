@@ -1,6 +1,6 @@
 {
   "name": "canex-react-leaflet-google-layer",
-  "version": "2.0.8",
+  "version": "2.0.9",
   "description": "React leaflet wrapper of leaflet.gridlayer.googlemutant",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
